@@ -104,7 +104,7 @@ public class Program
 
 
                 default:
-                    Console.WriteLine("Invalid choice. Try again.");
+                    Console.WriteLine("Wrong choice");
                     break;
             }
         }
